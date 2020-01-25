@@ -77,7 +77,10 @@
 
 [freshtube](https://github.com/porjo/freshtube) - Display latest videos from your favourite Youtube channels [Demo](https://porjo.github.io/freshtube/)
 
-
 [PHP-Webshells-Collection](https://github.com/x-o-r-r-o/PHP-Webshells-Collection) - Most Wanted Private and Public PHP Web Shells Can Be Downloaded Here. (Educational Purpose Only)
 
 [github_cloner](https://logstalgia.io/) - Clone github repositories of a user / organization [Demo](https://blog.anantshri.info/cloning-github-repositories-user-organization/)
+
+## Libraries
+
+[particle.js](https://github.com/VincentGarreau/particles.js/) - A lightweight JavaScript library for creating particles [Demo](https://vincentgarreau.com/particles.js/)

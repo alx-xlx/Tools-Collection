@@ -58,6 +58,7 @@
 
 [Visualyze-design-your-own-](https://github.com/HoangTran0410/Visualyze-design-your-own-) - A website that simulates music, can drag and drop, adjust effects, use music online or offline (pull from a PC) and many other cool things ... [Demo](https://hoangtran0410.github.io/Visualyze-design-your-own-/)
 
+[audio-visualizer](https://github.com/Teoxoy/audio-visualizer) - A web audio visualizer experiment [Demo](https://teoxoy.github.io/audio-visualizer)
 [awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.A
 
 ## Social

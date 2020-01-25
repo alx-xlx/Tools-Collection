@@ -32,6 +32,8 @@
 
 [mindmapp](https://github.com/Mindmapp/mindmapp) - 🚀 Web application to draw mind maps. [Demo](https://mindmapp.cedoor.org/)
 
+[vue-mindmap](https://github.com/anteriovieira/vue-mindmap) - VueMindmap is a vue component for mindnode maps [Demo](https://codesandbox.io/s/jv7pl7wn15)
+
 ## Machine Learning
 
 [Free-AIML](https://github.com/pandorabots/Free-AIML) - A collection of free AIML files from Mitsuku Chatbot creator Steve Worswick

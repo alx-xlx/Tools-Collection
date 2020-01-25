@@ -35,6 +35,8 @@
 [vue-mindmap](https://github.com/anteriovieira/vue-mindmap) - VueMindmap is a vue component for mindnode maps [Demo](https://codesandbox.io/s/jv7pl7wn15)
 
 [text2mindmap](https://github.com/tobloef/text2mindmap) - Online tool for making mindmaps by writing indented lists [Demo](https://tobloef.com/text2mindmap/)
+
+[mindmapit](https://github.com/JoseTomasTocino/mindmapit) - Simple web tool to create mindmaps [Demo](http://josetomastocino.github.io/mindmapit/)
 ## Machine Learning
 
 [Free-AIML](https://github.com/pandorabots/Free-AIML) - A collection of free AIML files from Mitsuku Chatbot creator Steve Worswick

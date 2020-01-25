@@ -1,13 +1,16 @@
 # Tools-Collection
- List of tools I like
+ List of Repo
 
 ## Graphix
-[Logstalgia](https://github.com/acaudwell/Logstalgia) - replay or stream website access logs as a retro arcade game
+[Logstalgia](https://github.com/acaudwell/Logstalgia) - replay or stream website access logs as a retro arcade game [Demo](https://logstalgia.io/)
 
-[gource]()
+[gource](https://github.com/acaudwell/Gource) - software version control visualization [Demo](https://gource.io)
 
 [earth](https://github.com/cambecc/earth) - a project to visualize global weather conditions [Demo](http://earth.nullschool.net)
 
+[simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands [Demo](https://simpleicons.org)
+
+[shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format [Demo](https://shields.io)
 
 ## Download Tools
 
@@ -19,8 +22,8 @@
 
 [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube and other video sites [Demo](http://ytdl-org.github.io/youtube-dl/)
 
-
 [alltube](https://github.com/Rudloff/alltube) - HTML GUI for youtube-dl [Demo](http://alltubedownload.net/)
+
 ## Writing
 
 [sol-journal](https://github.com/gillkyle/sol-journal) - ✎ Simple, personal journaling progressive web app
@@ -28,7 +31,6 @@
 [mindmaps](https://github.com/drichard/mindmaps) - An open source, offline capable, mind mapping application leveraging HTML5 technologies [Demo](https://www.mindmaps.app) | [Reworked](https://app.mindmapmaker.org/)
 
 [mindmapp](https://github.com/Mindmapp/mindmapp) - 🚀 Web application to draw mind maps. [Demo](https://mindmapp.cedoor.org/)
-
 
 ## Machine Learning
 
@@ -51,7 +53,7 @@
 
 [Visualyze-design-your-own-](https://github.com/HoangTran0410/Visualyze-design-your-own-) - A website that simulates music, can drag and drop, adjust effects, use music online or offline (pull from a PC) and many other cool things ... [Demo](https://hoangtran0410.github.io/Visualyze-design-your-own-/)
 
-[awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
+[awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.A
 
 ## Social
 
@@ -60,6 +62,7 @@
 [InstaPoster](https://github.com/Ademking/InstaPoster) - 🖼 Instagram Auto-Posting BOT - Post Automatically to instagram
 
 [InstagramBot-GUI-Python](https://github.com/mediabots/InstagramBot-GUI-Python) - Fully automated "Instagram Bot" with Graphical User Interface & Multi tasking. Written in Python with PyQt4/PySide
+
 ## TOR
 
 [onion-link-list](https://github.com/DanWin/onion-link-list) - A set of scripts to list tor hidden services
@@ -71,3 +74,5 @@
 
 
 [PHP-Webshells-Collection](https://github.com/x-o-r-r-o/PHP-Webshells-Collection) - Most Wanted Private and Public PHP Web Shells Can Be Downloaded Here. (Educational Purpose Only)
+
+[github_cloner](https://logstalgia.io/) - Clone github repositories of a user / organization [Demo](https://blog.anantshri.info/cloning-github-repositories-user-organization/)

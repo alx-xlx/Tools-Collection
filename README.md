@@ -84,3 +84,5 @@
 ## Libraries
 
 [particle.js](https://github.com/VincentGarreau/particles.js/) - A lightweight JavaScript library for creating particles [Demo](https://vincentgarreau.com/particles.js/)
+
+[particle](https://github.com/nrandecker/particle) - A simple portfolio Jekyll theme: [Demo](https://nrandecker.github.io/particle/)

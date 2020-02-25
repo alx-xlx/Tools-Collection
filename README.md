@@ -67,7 +67,7 @@
 
 [InstaPoster](https://github.com/Ademking/InstaPoster) - 🖼 Instagram Auto-Posting BOT - Post Automatically to instagram
 
-[InstagramBot-GUI-Python](https://github.com/mediabots/InstagramBot-GUI-Python) - Fully automated "Instagram Bot" with Graphical User Interface & Multi tasking. Written in Python with PyQt4/PySide
+[InstagramBot-GUI-Python](https://github.com/alx-xlx/InstagramBot-GUI-Python.git) - Fully automated "Instagram Bot" with Graphical User Interface & Multi tasking. Written in Python with PyQt4/PySide
 
 ## TOR
 

@@ -40,11 +40,11 @@
 
 ## Cloud Drive Tools
 
-[rclone]() - opensource tool to sync data across all the major Cloud Storage Services
+[rclone]() - CLI/GUI tool to sync data across all the major Cloud Storage Services
 
-[multicloud]()
+[multicloud]() - 
 
-[]
+[gdrive-http-directory] - 
 
 
 ## Machine Learning

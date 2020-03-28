@@ -42,9 +42,9 @@
 
 [rclone]() - CLI/GUI tool to sync data across all the major Cloud Storage Services
 
-[multicloud]() - 
+[multicloud]() - Access Cloud Storage as an FTP
 
-[gdrive-http-directory] - view the content of Google Drive in classic http directory style
+[gdrive-http-directory] - Host the content of Google Drive in classic http directory style
 
 
 ## Machine Learning

@@ -37,6 +37,16 @@
 [text2mindmap](https://github.com/tobloef/text2mindmap) - Online tool for making mindmaps by writing indented lists [Demo](https://tobloef.com/text2mindmap/)
 
 [mindmapit](https://github.com/JoseTomasTocino/mindmapit) - Simple web tool to create mindmaps [Demo](http://josetomastocino.github.io/mindmapit/)
+
+## Cloud Drive Tools
+
+[rclone]() - opensource tool to sync data across all the major Cloud Storage Services
+
+[multicloud]()
+
+[]
+
+
 ## Machine Learning
 
 [Free-AIML](https://github.com/pandorabots/Free-AIML) - A collection of free AIML files from Mitsuku Chatbot creator Steve Worswick

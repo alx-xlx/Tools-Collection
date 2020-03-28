@@ -44,7 +44,7 @@
 
 [multicloud]() - 
 
-[gdrive-http-directory] - 
+[gdrive-http-directory] - view the content of Google Drive in classic http directory style
 
 
 ## Machine Learning

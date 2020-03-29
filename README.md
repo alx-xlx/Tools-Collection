@@ -42,7 +42,9 @@
 
 [rclone]() - CLI/GUI tool to sync data across all the major Cloud Storage Services [Reworked - rcloneLab](https://github.com/Sparoney/RcloneLab) | [Reworked - rcloneBrowser](https://github.com/DinCahill/RcloneBrowser)
 
-[multicloud]() - Access Cloud Storage as an FTP
+[multicloud](https://www.multcloud.com) - Access Cloud Storage as an FTP
+
+[raiDrive](https://www.raidrive.com/download) - 
 
 <!-- [gdrive-http-directory]() - Host the content of Google Drive in classic http directory style -->
 

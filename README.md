@@ -16,6 +16,8 @@
 
 [YoutubeDownloader](https://github.com/cybernetwebdesign/YoutubeDownloader) - Youtube to mp3 conversion API's [Demo](https://api.download-lagu-mp3.com)
 
+[YoutubeUploader](https://github.com/porjo/youtubeuploader) - Upload videos to youtube via Command Line
+
 [letterboxd-bot](https://github.com/Pyrrolidine/letterboxd-bot) - Discord Bot [LetterBoxd]()
 
 [udemy-dl](https://github.com/r0oth3x49/udemy-dl) - A cross-platform python based utility to download courses from udemy for personal offline use.

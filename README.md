@@ -46,7 +46,7 @@
 
 [gdrive-migration](https://github.com/alx-xlx/gdrive-migration) - Google Colab Script to copy folders in Google Drive
 
-[goindex](https://github.com/alx-xlx/goindex) - Access Google Drive as server Index
+[goindex](https://github.com/alx-xlx/goindex) - Host the content of Google Drive in classic http directory style
 
 [multicloud](https://www.multcloud.com) - Access Cloud Storage as an FTP
 

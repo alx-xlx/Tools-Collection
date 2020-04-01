@@ -44,11 +44,13 @@
 
 [rclone]() - CLI/GUI tool to sync data across all the major Cloud Storage Services [Reworked - rcloneLab](https://github.com/Sparoney/RcloneLab) | [Reworked - rcloneBrowser](https://github.com/DinCahill/RcloneBrowser)
 
+[gdrive-migration](https://github.com/alx-xlx/gdrive-migration) - Google Colab Script to copy folders in Google Drive
+
 [goindex](https://github.com/alx-xlx/goindex) - Access Google Drive as server Index
 
 [multicloud](https://www.multcloud.com) - Access Cloud Storage as an FTP
 
-[raiDrive](https://www.raidrive.com/download) - Access Cloud Storage in your Explorer
+[raiDrive](https://www.raidrive.com/download) - Access Cloud Storage in your PC Explorer
 
 <!-- [gdrive-http-directory]() - Host the content of Google Drive in classic http directory style -->
 

@@ -52,8 +52,6 @@
 
 [raiDrive](https://www.raidrive.com/download) - Access Cloud Storage in your PC Explorer
 
-<!-- [gdrive-http-directory]() - Host the content of Google Drive in classic http directory style -->
-
 
 ## Machine Learning
 

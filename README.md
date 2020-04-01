@@ -44,7 +44,7 @@
 
 [multicloud](https://www.multcloud.com) - Access Cloud Storage as an FTP
 
-[raiDrive](https://www.raidrive.com/download) - 
+[raiDrive](https://www.raidrive.com/download) - Access Cloud Storage in your Explorer
 
 <!-- [gdrive-http-directory]() - Host the content of Google Drive in classic http directory style -->
 
@@ -84,7 +84,7 @@
 ## TOR
 
 [onion-link-list](https://github.com/DanWin/onion-link-list) - A set of scripts to list tor hidden services
----
+
 
 ## Scripting
 

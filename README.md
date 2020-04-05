@@ -85,6 +85,22 @@
 
 [InstagramBot-GUI-Python](https://github.com/alx-xlx/InstagramBot-GUI-Python.git) - Fully automated "Instagram Bot" with Graphical User Interface & Multi tasking. Written in Python with PyQt4/PySide
 
+## Utility
+
+[AskAdmin](https://www.sordum.org/7941/askadmin-v1-7/) - AskAdmin is designed to restrict an Application a Folder or a File, ideal for those who have small children or for Computer used in business
+
+[Reduce Memory](https://www.sordum.org/9197/reduce-memory-v1-3/) - Removes as many pages as possible from the working set of the specified process.
+
+[RaTool](https://www.sordum.org/8104/ratool-v1-3-removable-access-tool/) - Removable Access Tool, have full control over USB devices (Allow/Block READ & WRITE)
+
+[Window TopMost Control](https://www.sordum.org/9182/window-topmost-control-v1-2/) - Some Windows Applications doesn’t offer an option to make itself topmost , that is to keep it above all other windows
+
+[dir2html [PAID]](https://www.arclab.com/en/dir2html/) - Create a HTML Index of your
+Files and Folders
+
+[snap2html [FREE]](https://www.rlvision.com/snap2html/about.php) - Create folder listings and save as HTML
+
+
 ## TOR
 
 [onion-link-list](https://github.com/DanWin/onion-link-list) - A set of scripts to list tor hidden services

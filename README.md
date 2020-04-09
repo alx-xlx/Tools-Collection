@@ -150,4 +150,4 @@ Files and Folders
 
 ## Network
 
-[evillimiter](https://github.com/bitbrute/evillimiter) - Tool that limits bandwidth of devices on the same network without access.
+[evillimiter](https://github.com/bitbrute/evillimiter) - Tool that limits bandwidth of devices on the same network without access

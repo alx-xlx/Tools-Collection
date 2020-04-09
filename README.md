@@ -62,8 +62,6 @@
 
 [OperaGX]() -
 
-[Mozilla]() -
-
 [Tor]() -
 
 [Brave]() -
@@ -126,6 +124,7 @@ Files and Folders
 
 [CryptSync](https://tools.stefankueng.com/CryptSync.html) - synchronizes two folders while encrypting the contents in one folder
 
+[FileTool](https://sourceforge.net/projects/stefanstools/files/FileTool/) - lock files
 ## TOR
 
 [onion-link-list](https://github.com/DanWin/onion-link-list) - A set of scripts to list tor hidden services

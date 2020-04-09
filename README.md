@@ -30,6 +30,8 @@
 
 [sol-journal](https://github.com/gillkyle/sol-journal) - ✎ Simple, personal journaling progressive web app
 
+[firefly-iii](https://www.firefly-iii.org/) - FREE & open-source personal finances manager [Demo](https://demo.firefly-iii.org/) | [Source](https://github.com/firefly-iii/firefly-iii)
+
 [mindmaps](https://github.com/drichard/mindmaps) - An open source, offline capable, mind mapping application leveraging HTML5 technologies [Demo](https://www.mindmaps.app) | [Reworked](https://app.mindmapmaker.org/)
 
 [mindmapp](https://github.com/Mindmapp/mindmapp) - 🚀 Web application to draw mind maps. [Demo](https://mindmapp.cedoor.org/)
@@ -75,6 +77,7 @@
 [Visualyze-design-your-own-](https://github.com/HoangTran0410/Visualyze-design-your-own-) - A website that simulates music, can drag and drop, adjust effects, use music online or offline (pull from a PC) and many other cool things ... [Demo](https://hoangtran0410.github.io/Visualyze-design-your-own-/)
 
 [audio-visualizer](https://github.com/Teoxoy/audio-visualizer) - A web audio visualizer experiment [Demo](https://teoxoy.github.io/audio-visualizer)
+
 [awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.A
 
 ## Social
@@ -100,11 +103,14 @@ Files and Folders
 
 [snap2html [FREE]](https://www.rlvision.com/snap2html/about.php) - Create folder listings and save as HTML
 
+[restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
+
 
 ## TOR
 
 [onion-link-list](https://github.com/DanWin/onion-link-list) - A set of scripts to list tor hidden services
 
+[fres-onions](https://github.com/alx-xlx/fresh-onions) - Keep track of your favourite Onions [Demo](https://alx-xlx.github.io/fresh-onions/)
 
 ## Scripting
 

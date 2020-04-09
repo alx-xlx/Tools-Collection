@@ -88,6 +88,8 @@
 
 [InstagramBot-GUI-Python](https://github.com/alx-xlx/InstagramBot-GUI-Python.git) - Fully automated "Instagram Bot" with Graphical User Interface & Multi tasking. Written in Python with PyQt4/PySide
 
+[InstaBot](https://github.com/nickpettican/InstaBot) - 🤖 Automate your Instagram activity with InstaBot, a customisable bot that likes, follows and comments
+
 ## Utility
 
 [AskAdmin](https://www.sordum.org/7941/askadmin-v1-7/) - AskAdmin is designed to restrict an Application a Folder or a File, ideal for those who have small children or for Computer used in business

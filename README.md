@@ -124,6 +124,10 @@ Files and Folders
 
 [grepWin](https://github.com/stefankueng/grepWin/releases/) - a very powerful windows search tool that can even search inside a text file
 
+[StExBar](https://github.com/stefankueng/tools/releases/latest) - ultimate tool for Windows Explorer
+
+[CryptSync](https://tools.stefankueng.com/CryptSync.html) - synchronizes two folders while encrypting the contents in one folder
+
 ## TOR
 
 [onion-link-list](https://github.com/DanWin/onion-link-list) - A set of scripts to list tor hidden services

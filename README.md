@@ -52,23 +52,21 @@
 
 [goindex](https://github.com/alx-xlx/goindex) - Host the content of Google Drive in classic http directory style
 
-[multcloud](https://www.multcloud.com/partners/world-backup-day-giveaway.html) - Access Cloud Storage as an FTP
+[multacloud](https://www.multcloud.com/partners/world-backup-day-giveaway.html) - Access Cloud Storage as an FTP
 
 [raiDrive](https://www.raidrive.com/download) - Access Cloud Storage in your PC Explorer
 
 ## Internet Browser
 
-[Opera]
+[Opera]() -
 
-[OperaGX]
+[OperaGX]() -
 
-[Mozilla]
+[Mozilla]() -
 
-[Tor]
+[Tor]() -
 
-[Brave]
-
-
+[Brave]() -
 
 ## Machine Learning
 

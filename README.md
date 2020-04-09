@@ -34,6 +34,8 @@
 
 [firefly-iii](https://www.firefly-iii.org/) - FREE & open-source personal finances manager [Demo](https://demo.firefly-iii.org/) | [Source](https://github.com/firefly-iii/firefly-iii)
 
+[Trello](https://trello.com) - web-based Kanban-style list-making application
+
 [mindmaps](https://github.com/drichard/mindmaps) - An open source, offline capable, mind mapping application leveraging HTML5 technologies [Demo](https://www.mindmaps.app) | [Reworked](https://app.mindmapmaker.org/)
 
 [mindmapp](https://github.com/Mindmapp/mindmapp) - 🚀 Web application to draw mind maps. [Demo](https://mindmapp.cedoor.org/)

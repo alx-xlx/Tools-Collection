@@ -12,6 +12,8 @@
 
 [shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format [Demo](https://shields.io)
 
+[f.lux](https://justgetflux.com/) - computer's display adapt to the time of day
+
 ## Download Tools
 
 [YoutubeDownloader](https://github.com/cybernetwebdesign/YoutubeDownloader) - Youtube to mp3 conversion API's [Demo](https://api.download-lagu-mp3.com)
@@ -53,6 +55,19 @@
 [multicloud](https://www.multcloud.com) - Access Cloud Storage as an FTP
 
 [raiDrive](https://www.raidrive.com/download) - Access Cloud Storage in your PC Explorer
+
+## Internet Browser
+
+[Opera]
+
+[OperaGX]
+
+[Mozilla]
+
+[Tor]
+
+[Brave]
+
 
 
 ## Machine Learning
@@ -107,6 +122,7 @@ Files and Folders
 
 [restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 
+[grepWin](https://github.com/stefankueng/grepWin/releases/) - a very powerful windows search tool that can even search inside a text file
 
 ## TOR
 
@@ -127,3 +143,7 @@ Files and Folders
 [particle.js](https://github.com/VincentGarreau/particles.js/) - A lightweight JavaScript library for creating particles [Demo](https://vincentgarreau.com/particles.js/)
 
 [particle](https://github.com/nrandecker/particle) - A simple portfolio Jekyll theme: [Demo](https://nrandecker.github.io/particle/)
+
+## Network
+
+[evillimiter](https://github.com/bitbrute/evillimiter) - Tool that limits bandwidth of devices on the same network without access.

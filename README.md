@@ -46,6 +46,8 @@
 
 [mindmapit](https://github.com/JoseTomasTocino/mindmapit) - Simple web tool to create mindmaps [Demo](http://josetomastocino.github.io/mindmapit/)
 
+[marktext](https://marktext.app) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. [Source](https://github.com/marktext/marktext)
+
 ## Cloud Drive Tools
 
 [rclone]() - CLI/GUI tool to sync data across all the major Cloud Storage Services [Reworked - rcloneLab](https://github.com/Sparoney/RcloneLab) | [Reworked - rcloneBrowser](https://github.com/DinCahill/RcloneBrowser)
@@ -132,6 +134,8 @@ Files and Folders
 [onion-link-list](https://github.com/DanWin/onion-link-list) - A set of scripts to list tor hidden services
 
 [fres-onions](https://github.com/alx-xlx/fresh-onions) - Keep track of your favourite Onions [Demo](https://alx-xlx.github.io/fresh-onions/)
+
+[multitor](https://github.com/trimstray/multitor) - Create multiple TOR instances with a load-balancing.
 
 ## Scripting
 

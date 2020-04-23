@@ -1,5 +1,8 @@
 # Tools-Collection
- List of Repo
+
+![HitCount](http://hits.dwyl.com/alx-xlx/Tools-Collection.svg)
+
+ List of Unique tools and Applications
 
 ## Graphix
 [Logstalgia](https://github.com/acaudwell/Logstalgia) - replay or stream website access logs as a retro arcade game [Demo](https://logstalgia.io/)
@@ -165,5 +168,3 @@ Files and Folders
 -----------------------
 
 TODO
-
- 

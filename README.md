@@ -48,15 +48,19 @@
 
 [marktext](https://marktext.app) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. [Source](https://github.com/marktext/marktext)
 
+[joplin](https://github.com/laurent22/joplin) - open source note taking and to-do application with synchronization capabilities
+
 ## Cloud Drive Tools
 
 [rclone]() - CLI/GUI tool to sync data across all the major Cloud Storage Services [Reworked - rcloneLab](https://github.com/Sparoney/RcloneLab) | [Reworked - rcloneBrowser](https://github.com/DinCahill/RcloneBrowser)
 
 [gdrive-migration](https://github.com/alx-xlx/gdrive-migration) - Google Colab Script to copy folders in Google Drive
 
+[gdrive-index](https://github.com/alx-xlx/gdrive-index) - Generate a Indexed Tree Structure of your Google Drive and local drives
+
 [goindex](https://github.com/alx-xlx/goindex) - Host the content of Google Drive in classic http directory style
 
-[multacloud](https://www.multcloud.com/partners/world-backup-day-giveaway.html) - Access Cloud Storage as an FTP
+[multcloud](https://www.multcloud.com/partners/world-backup-day-giveaway.html) - Access Cloud Storage as an FTP
 
 [raiDrive](https://www.raidrive.com/download) - Access Cloud Storage in your PC Explorer
 

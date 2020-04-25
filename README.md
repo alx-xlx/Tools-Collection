@@ -59,13 +59,13 @@
 
 [gdrive-migration](https://github.com/alx-xlx/gdrive-migration) - Google Colab Script to copy folders in Google Drive
 
-[gdrive-index](https://github.com/alx-xlx/gdrive-index) - Generate a Indexed Tree Structure of your Google Drive and local drives
+[gdrive-index](https://github.com/alx-xlx/gdrive-index) - Generate a Indexed Tree Structure of your Google Drive and local drives [Demo](https://alx-xlx.github.io/gdrive-index/example.html)
 
 [goindex](https://github.com/alx-xlx/goindex) - Host the content of Google Drive in classic http directory style
 
-[multcloud](https://www.multcloud.com/partners/world-backup-day-giveaway.html) - Access Cloud Storage as an FTP
+[multcloud](https://www.multcloud.com/partners/world-backup-day-giveaway.html) - Cloud Storage as FTP on browser
 
-[raiDrive](https://www.raidrive.com/download) - Access Cloud Storage in your PC Explorer
+[raiDrive](https://www.raidrive.com/download) - Cloud Storage as Local Disk on PC Explorer
 
 ## Internet Browser
 
@@ -128,7 +128,7 @@
 [dir2html [PAID]](https://www.arclab.com/en/dir2html/) - Create a HTML Index of your
 Files and Folders
 
-[snap2html [FREE]](https://www.rlvision.com/snap2html/about.php) - Create folder listings and save as HTML
+[snap2html [FREE]](https://www.rlvision.com/snap2html/about.php) - Create folder listings or Index and save as HTML
 
 [restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 
@@ -167,4 +167,10 @@ Files and Folders
 
 -----------------------
 
+```
 TODO
+-----
+
+- Make this list more interactive
+- easy browsing
+```

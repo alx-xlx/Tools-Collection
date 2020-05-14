@@ -33,6 +33,8 @@
 
 ## Writing
 
+[Pencil](https://github.com/evolus/pencil) - a free and opensource tool for making diagrams and GUI prototyping [Download](http://pencil.evolus.vn/)
+
 [sol-journal](https://github.com/gillkyle/sol-journal) - ✎ Simple, personal journaling progressive web app
 
 [firefly-iii](https://www.firefly-iii.org/) - FREE & open-source personal finances manager [Demo](https://demo.firefly-iii.org/) | [Source](https://github.com/firefly-iii/firefly-iii)

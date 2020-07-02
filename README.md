@@ -17,6 +17,8 @@
 
 [f.lux](https://justgetflux.com/) - computer's display adapt to the time of day
 
+[pixel-art-react](https://github.com/jvalen/pixel-art-react) - Pixel art animation and drawing web app powered by React [Demo](https://www.pixelartcss.com/)
+
 ## Download Tools
 
 [YoutubeDownloader](https://github.com/cybernetwebdesign/YoutubeDownloader) - Youtube to mp3 conversion API's [Demo](https://api.download-lagu-mp3.com)
@@ -68,6 +70,10 @@
 [multcloud](https://www.multcloud.com/partners/world-backup-day-giveaway.html) - Cloud Storage as FTP on browser
 
 [raiDrive](https://www.raidrive.com/download) - Cloud Storage as Local Disk on PC Explorer
+
+[gd-efc](https://github.com/anadius/gd-efc) - Google Drive - encrypted folder copy [Demo](https://anadius.github.io/gd-efc)
+
+[uds](https://github.com/stewartmcgown/uds) - Unlimited Drive Storage by splitting binary files into base64 [uds-web](https://github.com/stewartmcgown/uds-web) | [Demo](https://sharp-einstein-92eca4.netlify.com/)
 
 ## Internet Browser
 
@@ -145,7 +151,7 @@ Files and Folders
 
 [onion-link-list](https://github.com/DanWin/onion-link-list) - A set of scripts to list tor hidden services
 
-[fres-onions](https://github.com/alx-xlx/fresh-onions) - Keep track of your favourite Onions [Demo](https://alx-xlx.github.io/fresh-onions/)
+[fresh-onions](https://github.com/alx-xlx/fresh-onions) - Keep track of your favourite Onions [Demo](https://alx-xlx.github.io/fresh-onions/)
 
 [multitor](https://github.com/trimstray/multitor) - Create multiple TOR instances with a load-balancing.
 
